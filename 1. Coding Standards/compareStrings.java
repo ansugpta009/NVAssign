@@ -2,7 +2,7 @@
  * Compare string with another string that contains same characters
  * 
  * @author Manish Singh
- * @created-time june 22,2019 8:40pm
+ * @created-time june 22,2021 8:40pm
  * @param input  two String            
  * @return   boolean true if they are anagram, false if not 
  * @throws NullPointerException if happens

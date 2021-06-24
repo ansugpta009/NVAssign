@@ -4,7 +4,7 @@
  * Compare string with another string that contains same characters
  * 
  * @author Manish Singh
- * @created-time june 22,2019 9pm
+ * @created-time june 22,2021 9pm
  * @param input   String            
  * @return  remove leading and trailing 0 from num and return rest
  * @throws NullPointerException if happens
