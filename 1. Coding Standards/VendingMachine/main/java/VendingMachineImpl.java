@@ -4,11 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Sample implementation of Vending Machine in Java
- *
- * @author Javin Paul
- */
+
 public class VendingMachineImpl implements VendingMachine {
     private Inventory<Coin> cashInventory = new Inventory<Coin>();
     private Inventory<Item> itemInventory = new Inventory<Item>();

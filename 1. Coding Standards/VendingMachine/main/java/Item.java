@@ -1,10 +1,5 @@
 package vending;
 
-/**
- * Items or products supported by Vending Machine.
- *
- * @author Javin Paul
- */
 public enum Item {
     COKE("Coke", 25), PEPSI("Pepsi", 35), SODA("Soda", 45);
 
