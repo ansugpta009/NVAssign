@@ -6,13 +6,13 @@ Dev Dependencies : nodemone
 
 download project into you local machine
 
-####intall dependencies
+##### install dependencies
 ```npm install express socket.io```
 
-####intall dev dependencies
+##### install dev dependencies
 ``` npm install nodemon --save-dev```
 
-####run index.js
+##### run index.js
 ```nodemon index.js```
 
 
